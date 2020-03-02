@@ -23,11 +23,3 @@ app.use(
 app.use(routes);
 
 app.listen(3333);
-
-/*
-***Continua***
-
-url: https://www.youtube.com/watch?v=MkkbUfcZUZM&t=42s
-
-21:07 min
-*/
